@@ -1,0 +1,158 @@
+mainscene.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+----
+  rotate: false
+  xy: 1408, 2
+  size: 126, 641
+  orig: 1280, 720
+  offset: 0, 79
+  index: 11
+----
+  rotate: false
+  xy: 1284, 2
+  size: 122, 720
+  orig: 1280, 720
+  offset: 0, 0
+  index: 3
+arrow1
+  rotate: false
+  xy: 2, 829
+  size: 1153, 19
+  orig: 1280, 720
+  offset: 124, 60
+  index: -1
+arrow2
+  rotate: false
+  xy: 2, 850
+  size: 1153, 19
+  orig: 1280, 720
+  offset: 126, 191
+  index: -1
+arrow3
+  rotate: false
+  xy: 2, 871
+  size: 1153, 19
+  orig: 1280, 720
+  offset: 124, 320
+  index: -1
+arrow4
+  rotate: false
+  xy: 2, 892
+  size: 1153, 19
+  orig: 1280, 720
+  offset: 126, 450
+  index: -1
+arrow5
+  rotate: false
+  xy: 2, 913
+  size: 1153, 19
+  orig: 1280, 720
+  offset: 124, 578
+  index: -1
+ball
+  rotate: false
+  xy: 1348, 779
+  size: 67, 67
+  orig: 1280, 720
+  offset: 208, 107
+  index: -1
+belt1
+  rotate: false
+  xy: 2, 724
+  size: 1154, 19
+  orig: 1280, 720
+  offset: 126, 60
+  index: -1
+belt2
+  rotate: false
+  xy: 2, 745
+  size: 1154, 19
+  orig: 1280, 720
+  offset: 126, 191
+  index: -1
+belt3
+  rotate: false
+  xy: 2, 766
+  size: 1154, 19
+  orig: 1280, 720
+  offset: 126, 320
+  index: -1
+belt4
+  rotate: false
+  xy: 2, 787
+  size: 1154, 19
+  orig: 1280, 720
+  offset: 126, 450
+  index: -1
+belt5
+  rotate: false
+  xy: 2, 808
+  size: 1154, 19
+  orig: 1280, 720
+  offset: 126, 578
+  index: -1
+bg
+  rotate: false
+  xy: 2, 2
+  size: 1280, 720
+  orig: 1280, 720
+  offset: 0, 0
+  index: -1
+door1
+  rotate: false
+  xy: 1254, 724
+  size: 121, 53
+  orig: 1280, 720
+  offset: 887, 43
+  index: -1
+door2
+  rotate: false
+  xy: 1254, 724
+  size: 121, 53
+  orig: 1280, 720
+  offset: 644, 174
+  index: -1
+door3
+  rotate: false
+  xy: 1254, 724
+  size: 121, 53
+  orig: 1280, 720
+  offset: 214, 303
+  index: -1
+door4
+  rotate: false
+  xy: 1254, 724
+  size: 121, 53
+  orig: 1280, 720
+  offset: 887, 433
+  index: -1
+door5
+  rotate: false
+  xy: 1254, 724
+  size: 121, 53
+  orig: 1280, 720
+  offset: 541, 561
+  index: -1
+pause_icon
+  rotate: false
+  xy: 1158, 724
+  size: 94, 95
+  orig: 1280, 720
+  offset: 14, 612
+  index: -1
+restart_icon
+  rotate: true
+  xy: 1254, 779
+  size: 80, 92
+  orig: 1280, 720
+  offset: 21, 505
+  index: -1
+robot
+  rotate: true
+  xy: 1408, 645
+  size: 70, 110
+  orig: 1280, 720
+  offset: 240, 79
+  index: -1
