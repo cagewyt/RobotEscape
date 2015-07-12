@@ -3,7 +3,7 @@ package com.sagereducation.client;
 import com.badlogic.gdx.ApplicationListener;
 import com.badlogic.gdx.backends.gwt.GwtApplication;
 import com.badlogic.gdx.backends.gwt.GwtApplicationConfiguration;
-import com.sagereducation.RobotEscape;
+import com.sagereducation.robotescape.RobotEscape;
 
 public class HtmlLauncher extends GwtApplication {
 
