@@ -34,7 +34,7 @@ public class GameScreen extends AbstractScreen {
 		super();
 		this.level = level.intValue();
 		batch = new SpriteBatch();
-		spriteSheet = new TextureAtlas("/Users/taylor/Documents/Development/Projects/RobotEscape/android/assets/mainscene.txt");
+		spriteSheet = new TextureAtlas("/Users/nickwang/Documents/Development/Projects/RobotEscape/android/assets/mainscene.txt");
 		
 		spriteNames.add("bg");
 		spriteNames.add("belt1");

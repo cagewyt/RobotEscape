@@ -8,7 +8,7 @@ public class DesktopLauncher {
 	public static void main (String[] arg) {
 		LwjglApplicationConfiguration config = new LwjglApplicationConfiguration();
 		config.title = "Robot Escape";
-	      config.width = 1080/2;
+	      config.width = 1280/2;
 	      config.height = 720/2;
 	      config.fullscreen = false;  
 	      config.useGL30 = false;  

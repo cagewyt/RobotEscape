@@ -15,7 +15,7 @@ import com.sagereducation.robotescape.util.VirtualViewport;
 
 public abstract class AbstractScreen extends Stage implements Screen {
 	
-	private static final int VIRTUAL_WIDTH = 1080;
+	private static final int VIRTUAL_WIDTH = 1280;
     private static final int VIRTUAL_HEIGHT = 720;
     private static final float ASPECT_RATIO = (float)VIRTUAL_WIDTH/(float)VIRTUAL_HEIGHT;
     
@@ -24,7 +24,7 @@ public abstract class AbstractScreen extends Stage implements Screen {
 	
 	protected AbstractScreen() {
 		super( new StretchViewport(VIRTUAL_WIDTH, VIRTUAL_HEIGHT, new OrthographicCamera()) );
-		multipleVirtualViewportBuilder = new MultipleVirtualViewportBuilder(800, 600, 1080, 720);  
+		multipleVirtualViewportBuilder = new MultipleVirtualViewportBuilder(1280, 720, 1280, 720);  
 	}
 	
 	// Subclasses must load actors in this method
